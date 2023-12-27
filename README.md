@@ -24,7 +24,5 @@ samples, guidance on mobile development, and a full API reference.
   
 
 https://github.com/sumitFlutter/project_1/assets/153794386/7452eb92-9252-47ae-806e-9b318c8252f2
-
-
   </video>
 </p>
