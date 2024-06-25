@@ -17,8 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 <p>
 <img src="https://github.com/sumitFlutter/project_1/assets/153794386/f392dd3e-6310-4614-b517-487e93113392" height="400px" width="200px"/>
       
-<img src="https://github.com/sumitFlutter/project_1/assets/153794386/7df6f366-79b6-4f09-877a-876504057" height="400px" width="200px"/>
-  
+
 
 https://github.com/sumitFlutter/project_1/assets/153794386/7452eb92-9252-47ae-806e-9b318c8252f2
 </p>
